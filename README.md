@@ -1,5 +1,5 @@
 # Empirical Study on Contagion Risk Measure Under Extreme Risk
-a thesis submitted to School of Mathematics & Physics of Xi’an Jiaotong-Liverpool University for the degree BSc Actuarial Science
+A thesis submitted to School of Mathematics & Physics of Xi’an Jiaotong-Liverpool University for the degree BSc Actuarial Science
 
 # Goal
 this thesis aims to identify contagion risk in historical financial
