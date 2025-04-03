@@ -34,7 +34,10 @@ The raw data is not provided within this repository
 * 'summary_statistics.R' consists of codes to calculate summary statistics of the stock indices
 * 'analysis1.R' consists of the code for estimating the shape parameter α and the tail order κ
 
+# Important Note
+All file paths used within the code will need to be rewritten accordingly depending on where you store the downloaded file in your system.
+
 # Author
-Thesis is authored by Adlensius Fransiskus Djunaedi
+All codes and thesis are authored by Adlensius Fransiskus Djunaedi
 
 Supervised by Dr. Jiajun Liu
