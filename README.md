@@ -2,10 +2,14 @@
 A thesis submitted to School of Mathematics & Physics of Xi’an Jiaotong-Liverpool University for the degree BSc Actuarial Science
 
 # Goal
-this thesis aims to identify contagion risk in historical financial
-events and explore its relationship with tail heaviness, measured by the shape parameter α, and
-tail dependence, measured by the tail order κ.
-
+The aim of this research is to provide an overview of a contagion risk measure known as the
+Contagion Risk under Value-at-Risk based allocation (CRVaR) and its relevant concepts including
+Extreme Value Theory and tail dependency. We will then use these concepts to empirically
+detect contagion risk between components within a global financial system by regarding each
+country’s stock market as an individual component of the entire market. By definition, CRVaR
+allows us to indicate extreme risk exposures for a single entity of interest conditional on the
+state of another institution. Consequently, it is also of interest to understand the effect of tail
+heaviness and dependency between countries on contagion risk level.
 
 # Overview
 Contagion risk has been widely identified as a critical factor in the recent 2008 financial crisis.
