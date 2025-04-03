@@ -20,7 +20,7 @@ events and explore its relationship with tail heaviness, measured by the shape p
 tail dependence, measured by the tail order κ. Using major stock indices data from the US
 (S&P 500), UK (FTSE 100), and Japan (NIKKEI 225), empirical findings confirm the inverse
 relationship between contagion risk and the combined effect of α and κ represented by the index
-(κ 􀀀 1 􀀀 1/α). Additionally, pairs with stronger dependence tend to have an overall stronger
+(κ - 1 - 1/α). Additionally, pairs with stronger dependence tend to have an overall stronger
 contagion risk. These results provide empirical evidence of the presence of contagion risk in
 extreme systemic crises and justify the importance of its management under modern financial
 regulatory framework.
