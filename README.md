@@ -27,7 +27,8 @@ regulatory framework.
 
 # Content
 * '1927459_Adlensius Fransiskus Djunaedi_2023.pdf' is the full report
-* The main data are CLEANED 'S&P500 vs FTSE100.xlsx' and 'CLEANED S&P500 vs NI225.xlsx'
+* The main data are CLEANED 'S&P500 vs FTSE100.xlsx' and 'CLEANED S&P500 vs NI225.xlsx' which are stock indices data which have been gathered fromm Yahoo Finance and cleaned with the code in 'clean_data.m'.
+The raw data is not provided within this repository
 * 'heatmap.m' consist of the code to generate the heatmap of empirical estimation of historical contagion risk measure which employ the 'crvar2.m' function
 * 'unit_frechet.m' is the code for unit frechet transformation which has been exported to 'frechet sp500 ftse100.xlsx' and 'frechet sp500 ni225.xlsx'
 * 'summary_statistics.R' consists of codes to calculate summary statistics of the stock indices
